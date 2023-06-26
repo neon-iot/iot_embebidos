@@ -3,17 +3,24 @@
 In this course, a study of embedded systems and the internet of things is carried out, focusing on an advanced development kit and carrying out important laboratory work. It is expected that at the end of the course, the student will be able to program in C language, understanding different embedded software architectures such as multitasking and real-time operating systems, and to control and implement systems with different types of I/O. Some technologies for the IoT such as Zigbee, WiFi, Sigfox, LoRa, NB-IoT, etc., the protocols, hardware embodiements, and business opportunities of the IoT will be studied, as well as its application in verticals such as agribusiness, transportation or home automation.
 
 ## Main topics
-* This
-* That
+* Introduction to basic concepts of embedded systems
+* Language C
+* Embedded software architectures
+* Real-time operative systems
+* Communication interphases and protocols for IoT
+* Software platforms for IoT
 
 ## What you will learn
-* This
-* That
-* ...
+* A thorough understanding of embedded systems, and the ability to analyze and Design embedded systems with microprocessors/microcontrollers connected to the Internet.
+* Management of the concept of robustness, scalability and good practices of embedded software programming.
+* Ability to program microprocessors in C language, working with modern development tools, and being able to use architectures of
+advanced firmware such as multitasking or real-time operating systems.
+* Notions about structure and energy consumption in embedded systems, and the different technologies for IoT.
+* Ability to face and solve development projects of solutions to problems through an embedded system and IoT technologies.
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
+* Previous knowledge of programming and microprocessors.
+* Hardware (development board ESP32-S2-Kaluga-1).
 
 
 ***
