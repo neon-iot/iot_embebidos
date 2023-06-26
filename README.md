@@ -1,6 +1,6 @@
-# Demo teaching material template
-## About this teaching material
-This course...
+# IoT Design and Embedded Systems
+## About this course
+In this course, a study of embedded systems and the internet of things is carried out, focusing on an advanced development kit and carrying out important laboratory work. It is expected that at the end of the course, the student will be able to program in C language, understanding different embedded software architectures such as multitasking and real-time operating systems, and to control and implement systems with different types of I/O. Some technologies for the IoT such as Zigbee, WiFi, Sigfox, LoRa, NB-IoT, etc., the protocols, hardware embodiements, and business opportunities of the IoT will be studied, as well as its application in verticals such as agribusiness, transportation or home automation.
 
 ## Main topics
 * This
