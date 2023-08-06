@@ -22,6 +22,8 @@ advanced firmware such as multitasking or real-time operating systems.
 * Previous knowledge of programming and microprocessors.
 * Hardware (development board ESP32-S2-Kaluga-1).
 
+![AckNEON](https://github.com/neon-iot/iot_embebidos/assets/89226880/fa5c409b-3b65-49d6-828b-365c393d72f0)
+
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
